@@ -16,7 +16,7 @@ projeto carrinho de compras de um e-commerce, orientado por Imã Tech, parte do 
 
 ## Tecnologies used
 ### languages
-- `HTML`
+- `BOOTSTRAP`
 - `CSS`
 - `JAVASCRIPT`
 
