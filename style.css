@@ -1,0 +1,89 @@
+/* ********************NAVBAR********************* */
+.navbar navbar-expand-lg bg-body-pink {
+  width: 90%;
+}
+
+.logo {
+  color: rgb(12, 12, 12);
+  -webkit-text-stroke-width: 1px;
+}
+
+.logo span {
+  color: rgb(66, 66, 66);
+}
+
+.container-fluid {
+  width: 80%;
+  background-color: pink;
+  padding: 10px;
+}
+
+/* ********************PRODUTOS********************* */
+.container-productos {
+  width: 100%;
+  padding-top: 40px;
+}
+
+.productos {
+  width: 90%;
+  align-items: center;
+  display: flex;
+  gap: 1rem;
+  margin-inline: auto;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+.card {
+  align-items: center;
+}
+
+.cart-item-info {
+  font-size: 12px;
+  padding-bottom: 15px;
+}
+
+.cart-item-image {
+  width: 8rem;
+}
+
+.modal-body {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.btn-btn-pink {
+  background-color: #ff69b4;
+  border-color: #ff69b4;
+  color: #ffffff;
+  border-radius: 4px;
+  padding: 9px 20px;
+  text-decoration: none;
+}
+
+.btn-btn-pink:hover {
+  background-color: #fa9bc1;
+  border-color: #ff5c9e;
+  color: #ffffff;
+}
+/* ********************FOOTER******************** */
+.footer-container {
+  width: 100%;
+  margin-top: 40px;
+  font-weight: 600;
+}
+
+.footer p {
+  align-items: center;
+  text-align: center;
+  background-color: pink;
+  padding: 30px;
+  color: rgb(12, 12, 12);
+  -webkit-text-stroke-width: 1px;
+}
+
+.footer span {
+  color: rgb(66, 66, 66);
+}
