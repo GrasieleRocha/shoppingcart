@@ -5,10 +5,12 @@
 projeto carrinho de compras de um e-commerce, orientado por Imã Tech, parte do curso TodasTech.
 
 ## Layout Mobile
+![WhatsApp Image 2023-07-20 at 12 24 34](https://github.com/GrasieleRocha/shoppingcart/assets/104076058/6b5c8fbc-795a-4321-b4ce-aecfae3c04a8)
 
 
 
 ## Layout Desktop
+![WhatsApp Image 2023-07-20 at 12 24 34 (1)](https://github.com/GrasieleRocha/shoppingcart/assets/104076058/c175716b-4c48-444d-855e-7adde769a2a3)
 
 
 
@@ -25,7 +27,7 @@ projeto carrinho de compras de um e-commerce, orientado por Imã Tech, parte do 
 - `Netlify`
 
 ## Link to access the project...
-App no ar: https://tindercloneima.netlify.app/
+App no ar:https://todastechshoppingcart.netlify.app/
 
 ## Developer.
 
